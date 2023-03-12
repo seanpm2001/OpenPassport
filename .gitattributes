@@ -32,6 +32,57 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# C source file
+*.c linguist-detectable=true
+*.c linguist-documentation=false
+*.c linguist-language=C
+# C header source file
+*.h linguist-detectable=true
+*.h linguist-documentation=false
+*.h linguist-language=C
+# AWK source file
+*.awk linguist-detectable=true
+*.awk linguist-documentation=false
+*.awk linguist-language=AWK
+# M4 source file
+*.m4 linguist-detectable=true
+*.m4 linguist-documentation=false
+*.m4 linguist-language=M4
+# Python source file
+*.py linguist-detectable=true
+*.py linguist-documentation=false
+*.py linguist-language=Python
+*.py3 linguist-detectable=true
+*.py3 linguist-documentation=false
+*.py3 linguist-language=Python
+*.pyt linguist-detectable=true
+*.pyt linguist-documentation=false
+*.pyt linguist-language=Python
+*.pyw linguist-detectable=true
+*.pyw linguist-documentation=false
+*.pyw linguist-language=Python
+# C++ source file
+*.cpp linguist-detectable=true
+*.cpp linguist-documentation=false
+*.cpp linguist-language=C++
+*.cxx linguist-detectable=true
+*.cxx linguist-documentation=false
+*.cxx linguist-language=C++
+*.hpp linguist-detectable=true
+*.hpp linguist-documentation=false
+*.hpp linguist-language=C++
+*.hxx linguist-detectable=true
+*.hxx linguist-documentation=false
+*.hxx linguist-language=C++
+*.c++ linguist-detectable=true
+*.c++ linguist-documentation=false
+*.c++ linguist-language=C++
+*.h++ linguist-detectable=true
+*.h++ linguist-documentation=false
+*.h++ linguist-language=C++
+*.hh linguist-detectable=true
+*.hh linguist-documentation=false
+*.hh linguist-language=C++
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +212,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2023, Sunday, March 12th at 1:35 pm PST)
+# Line count (including blank lines and compiler line): 225
+
 # End of script
